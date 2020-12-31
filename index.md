@@ -10,5 +10,5 @@ profile_picture:
 </p>
 
 <p>
-  Welcome to checkout my reseach page and my <a href="https://github.com/yueyingn">GitHub</a> profile!
+  Welcome to checkout my <a href="https://yueyingn.github.io/YN_CV.pdf">CV</a> and my <a href="https://github.com/yueyingn">GitHub</a> profile!
 </p>
