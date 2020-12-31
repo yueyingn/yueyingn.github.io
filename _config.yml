@@ -17,15 +17,13 @@ header:
     - name: Blog
 
 footer:
-  show_powered_by: true
+  show_powered_by: False
   contact:
     - name: Email
       value: yueyingn@andrew.cmu.edu
       link: mailto:yueyingn@andrew.cmu.edu
     
   follow:
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
       link: http://github.com/yueyingn
 
