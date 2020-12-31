@@ -15,6 +15,8 @@ header:
       slug: /
     - name: Work
     - name: Blog
+    - name: CV
+      slug: "https://yueyingn.github.io/YN_CV.pdf"
 
 footer:
   show_powered_by: False
