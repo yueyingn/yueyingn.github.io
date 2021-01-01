@@ -5,8 +5,8 @@ title: Research
 
 Here are the brief introductions for some of my research projects.
 <br />
-
 <br />
+
 ---
 <br />
 ### Asterix simulation
@@ -19,8 +19,8 @@ Here are the brief introductions for some of my research projects.
 <br />
 We are currently running a new large volume cosmological hydrodymical simulation with 2 x 5500<sup>3</sup> particles in 250 Mpc/h volume box on Frontera supercomputer. The simulation includes new implementations of supermassive black hole physics, stellar metal return model and reionization models. It will provide us an ideal suite to study the formation and evolution of galaxies and SMBHs at z>2.
 <br />
-
 <br />
+
 ---
 <br />
 ### Super-resolution simulation
@@ -32,8 +32,8 @@ We are currently running a new large volume cosmological hydrodymical simulation
 <br />
 In this work [Li&Ni2020](https://arxiv.org/abs/2010.06608), we trained a generative-adversial network (GAN) to produce high-resolution realizations of cosmological simulations conditioned on the low-resolution dark matter only simulation. Our super resolution model produces 8 times higher spactial resolution and 512 times higher mass resolution, extending to deeply non-linear regime and giving both visually and quantitatively good outputs. It can be used as a powerful tool to produce large mock catalogs with very cheap computational costs.
 <br />
-
 <br />
+
 ---
 <br />
 ### Growth of SMBH in Constrained Gaussian Realizations
@@ -47,8 +47,8 @@ The image show the gas density field around the SMBH at z=6. The white crosses i
 High redshift quasars typically reside in extremely rare density peaks, so that one needs to launch a large uniform volume simulation to catch those rare objects (like BlueTides simulation I run). However, one can use constrained gaussian realization (CR) technique to directly build a high density peak in the initial condition of a smaller volume simulation box to study those rare objects. CR technique can directly constrain the shape, compactness of the initial density peak, as well as control the gravitational field (e.g. tidal field) at the site of the peak. In this work [Ni2020](https://arxiv.org/abs/2012.04714), I study the relation between the large scale property of the initial density peaks and the growth of early QSOs, and found that a high compact initial density peak residing in low tidal field would bring the most rapid growth of SMBHs. 
 Welcome to checkout my implementation of CR technique [gaussianCR](https://github.com/yueyingn/gaussianCR). I hope you also appreciate this elegant and powerful tool!
 <br />
-
 <br />
+
 ---
 <br />
 ### BlueTides simulation
