@@ -7,18 +7,20 @@ Here are the brief introductions for some of my research projects.
 <br />
 
 ---
+<br />
 ### Asterix simulation
 
 <figure>
 <img src="{{ "/assets/img/work/Asterix-z6-50Mpc-cut.png" | absolute_url }}" alt="Whoops" class="post-pic" width="100%">
-<figcaption> Visualization of Asterix simulation at z=6. The image shows a subregion of 50 Mpc/h centered on the most massive halo. </figcaption>
+<figcaption> Visualization of Asterix simulation at z=6. The image shows a subregion of 50 Mpc/h centered at the most massive halo. </figcaption>
 </figure>
 
 <br />
-We are running a new large volume cosmological hydrodymical simulation with 2 x 5500<sup>3</sup> particles in 250 Mpc/h volume box on Frontera supercomputer. The simulation includes new implementations of supermassive black hole physics, stellar metal return model and reionization models. It will provide us an ideal suite to study the formation and evolution of galaxies and SMBHs at z>2.
+We are currently running a new large volume cosmological hydrodymical simulation with 2 x 5500<sup>3</sup> particles in 250 Mpc/h volume box on Frontera supercomputer. The simulation includes new implementations of supermassive black hole physics, stellar metal return model and reionization models. It will provide us an ideal suite to study the formation and evolution of galaxies and SMBHs at z>2.
 <br />
 
 ---
+<br />
 ### Super-resolution simulation
 <figure>
 <img src="{{ "/assets/img/work/SR-z2.png" | absolute_url }}" alt="Whoops" class="post-pic" width="95%">
@@ -30,9 +32,10 @@ In this work [Li&Ni2020](https://arxiv.org/abs/2010.06608), we trained a generat
 <br />
 
 ---
+<br />
 ### Growth of SMBH in Constrained Gaussian Realizations
 <figure>
-<img src="{{ "/assets/img/work/CR-img.png" | absolute_url }}" alt="Whoops" class="post-pic" width="95%">
+<img src="{{ "/assets/img/work/CR-img.png" | absolute_url }}" alt="Whoops" class="post-pic" width="90%">
 <figcaption> Illustration of a set of constrained simulations with varying compactness and tidal field strength of the initial density peak. All the constrained simulations has initial density peak with height \nu = 5 \sigma. The top panels show the constrained simulations with averaged compactness and differing tidal field magnitude of -2\sigma, ave, +2\sigma from left to right respectively. The bottom panels show the corresponding constrained simulations with +2\sigma compactness and tidal fields ordered the same as above. 
 The image show the gas density field around the SMBH at z=6. The white crosses in each panel mark the positions of the BHs. </figcaption>
 </figure>
@@ -43,6 +46,7 @@ Welcome to checkout my implementation of CR technique [gaussianCR](https://githu
 <br />
 
 ---
+<br />
 ### BlueTides simulation
 <figure>
 <img src="{{ "/assets/img/work/BlueTides.png" | absolute_url }}" alt="Whoops" class="post-pic" width="95%">
