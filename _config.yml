@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Work
-    - name: Blog
+    - name: Publications
     - name: CV
       slug: "https://yueyingn.github.io/YN_CV.pdf"
 
