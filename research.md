@@ -6,6 +6,7 @@ title: Research
 Here are the brief introductions for some of my research projects.
 <br />
 
+<br />
 ---
 <br />
 ### Asterix simulation
@@ -19,6 +20,7 @@ Here are the brief introductions for some of my research projects.
 We are currently running a new large volume cosmological hydrodymical simulation with 2 x 5500<sup>3</sup> particles in 250 Mpc/h volume box on Frontera supercomputer. The simulation includes new implementations of supermassive black hole physics, stellar metal return model and reionization models. It will provide us an ideal suite to study the formation and evolution of galaxies and SMBHs at z>2.
 <br />
 
+<br />
 ---
 <br />
 ### Super-resolution simulation
@@ -31,6 +33,7 @@ We are currently running a new large volume cosmological hydrodymical simulation
 In this work [Li&Ni2020](https://arxiv.org/abs/2010.06608), we trained a generative-adversial network (GAN) to produce high-resolution realizations of cosmological simulations conditioned on the low-resolution dark matter only simulation. Our super resolution model produces 8 times higher spactial resolution and 512 times higher mass resolution, extending to deeply non-linear regime and giving both visually and quantitatively good outputs. It can be used as a powerful tool to produce large mock catalogs with very cheap computational costs.
 <br />
 
+<br />
 ---
 <br />
 ### Growth of SMBH in Constrained Gaussian Realizations
@@ -45,6 +48,7 @@ High redshift quasars typically reside in extremely rare density peaks, so that 
 Welcome to checkout my implementation of CR technique [gaussianCR](https://github.com/yueyingn/gaussianCR). I hope you also appreciate this elegant and powerful tool!
 <br />
 
+<br />
 ---
 <br />
 ### BlueTides simulation
