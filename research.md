@@ -38,7 +38,7 @@ In this work [Li&Ni2020](https://arxiv.org/abs/2010.06608), we trained a generat
 <br />
 ### Growth of SMBH in Constrained Gaussian Realizations
 <figure>
-<img src="{{ "/assets/img/work/CR-img.png" | absolute_url }}" alt="Whoops" class="post-pic" width="90%">
+<img src="{{ "/assets/img/work/CR-img.png" | absolute_url }}" alt="Whoops" class="post-pic" width="95%">
 <figcaption> Illustration of a set of constrained simulations with varying compactness and tidal field strength of the initial density peak. All the constrained simulations has initial density peak with height \nu = 5 \sigma. The top panels show the constrained simulations with averaged compactness and differing tidal field magnitude of -2\sigma, ave, +2\sigma from left to right respectively. The bottom panels show the corresponding constrained simulations with +2\sigma compactness and tidal fields ordered the same as above. 
 The image show the gas density field around the SMBH at z=6. The white crosses in each panel mark the positions of the BHs. </figcaption>
 </figure>
