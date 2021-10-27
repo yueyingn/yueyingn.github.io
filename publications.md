@@ -10,7 +10,7 @@ li {
 </style>
 
 ### First author papers
-<ol><b>Y. Ni</b>, Y. Li, et al. 2021 <a href='https://academic.oup.com/mnras/article/507/1/1021/6327562'>AI-assisted superresolution cosmological simulations – II. Halo substructures, velocities, and higher order statistics</a> </li> 
+<li><b>Y. Ni</b>, Y. Li, et al. 2021 <a href='https://academic.oup.com/mnras/article/507/1/1021/6327562'>AI-assisted superresolution cosmological simulations – II. Halo substructures, velocities, and higher order statistics</a> </li> 
     
 <li><b>Y. Ni</b>, T. Di Matteo and Y. Feng, 2020 <a href="https://arxiv.org/abs/2012.04714">Not all peaks are created equal: the early growth of Supermassive Black Holes</a> </li>
 
