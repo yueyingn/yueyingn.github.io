@@ -53,7 +53,7 @@ Welcome to checkout my implementation of CR technique [gaussianCR](https://githu
 <br />
 ### BlueTides simulation
 <figure>
-<img src="{{ "/assets/img/work/BlueTides-gallery.png" | absolute_url }}" alt="Whoops" class="post-pic" width="100%">
+<img src="{{ "/assets/img/work/Bluetides-gallery.png" | absolute_url }}" alt="Whoops" class="post-pic" width="100%">
 <figcaption> Illustration of BlueTides simulation at z=6.5. It is a large volume (400 Mpc/h side), high-resolution (2 x 7040<sup>3</sup>) cosmological hydrodynamic simulations targeted to study the evolution of galaxies and quasars at the epoch of reionization (z>6). </figcaption>
 </figure>
 
