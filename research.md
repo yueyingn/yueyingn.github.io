@@ -9,7 +9,7 @@ Here are the brief introductions for some of my research projects.
 
 ---
 <br />
-### Asterix simulation
+### Astrid simulation
 
 <figure>
 <img src="{{ "/assets/img/work/Astrid-z3.png" | absolute_url }}" alt="Whoops" class="post-pic" width="100%">
