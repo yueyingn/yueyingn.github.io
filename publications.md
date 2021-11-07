@@ -29,9 +29,9 @@ li {
 
 ### Second author papers
 
-<li>S. Bird,<b>Y. NI</b>, et al. 2021 <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv211101160B'>The ASTRID Simulation: Galaxy Formation and Reionization</a> </li>
+<li>S. Bird,<b>Y. Ni</b>, et al. 2021 <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv211101160B'>The ASTRID Simulation: Galaxy Formation and Reionization</a> </li>
 
-<li>N. Chen,<b>Y. NI</b>, M. Tremmel,T. Di Matteo, S. Bird, C. DeGraf, 2020 <a href='https://arxiv.org/abs/2104.00021'>Dynamical Friction Modeling of Massive Black Holes in Cosmological Simulations and Effects on Merger Rate Predictions</a> </li>
+<li>N. Chen,<b>Y. Ni</b>, M. Tremmel,T. Di Matteo, S. Bird, C. DeGraf, 2020 <a href='https://arxiv.org/abs/2104.00021'>Dynamical Friction Modeling of Massive Black Holes in Cosmological Simulations and Effects on Merger Rate Predictions</a> </li>
 
 <li>Y. Li,<b>Y. Ni</b>, R. A. C. Croft, T. Di Matteo, S. Bird and Y. Feng, 2020 <a href="https://arxiv.org/abs/2010.06608">AI-assisted super-resolution cosmological simulations</a> </li>
 
