@@ -10,6 +10,8 @@ li {
 </style>
 
 ### First author papers
+<li><b>Y. Ni</b>, T. Di Matteo, et al. 2021 <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv211014154N'>The ASTRID simulation: the evolution of Supermassive Black Holes</a> </li> 
+
 <li><b>Y. Ni</b>, Y. Li, et al. 2021 <a href='https://academic.oup.com/mnras/article/507/1/1021/6327562'>AI-assisted superresolution cosmological simulations – II. Halo substructures, velocities, and higher order statistics</a> </li> 
     
 <li><b>Y. Ni</b>, T. Di Matteo and Y. Feng, 2020 <a href="https://arxiv.org/abs/2012.04714">Not all peaks are created equal: the early growth of Supermassive Black Holes</a> </li>
@@ -26,6 +28,8 @@ li {
 
 
 ### Second author papers
+
+<li>S. Bird,<b>Y. NI</b>, et al. 2021 <a href='https://ui.adsabs.harvard.edu/abs/2021arXiv211101160B'>The ASTRID Simulation: Galaxy Formation and Reionization</a> </li>
 
 <li>N. Chen,<b>Y. NI</b>, M. Tremmel,T. Di Matteo, S. Bird, C. DeGraf, 2020 <a href='https://arxiv.org/abs/2104.00021'>Dynamical Friction Modeling of Massive Black Holes in Cosmological Simulations and Effects on Merger Rate Predictions</a> </li>
 
