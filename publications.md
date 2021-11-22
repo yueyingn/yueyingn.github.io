@@ -41,11 +41,11 @@ li {
 
 ### Other contributed papers
 
-<li> >M. A. Marshall, S. Wilkins, et al. 2021 <a href="https://arxiv.org/abs/2110.12075">The Impact of Dust on the Sizes of Galaxies in the Epoch of Reionization</a> </li>
+<li> M. A. Marshall, S. Wilkins, et al. 2021 <a href="https://arxiv.org/abs/2110.12075">The Impact of Dust on the Sizes of Galaxies in the Epoch of Reionization</a> </li>
 
-<li> >M. A. Marshall, J. S. B. Wyithe, et al. 2021 <a href="https://doi.org/10.1093/mnras/stab1763">Observing the host galaxies of high-redshift quasars with JWST: predictions from the BLUETIDES simulation</a> </li>
+<li> M. A. Marshall, J. S. B. Wyithe, et al. 2021 <a href="https://doi.org/10.1093/mnras/stab1763">Observing the host galaxies of high-redshift quasars with JWST: predictions from the BLUETIDES simulation</a> </li>
 
-<li> > K. Ren, M. Trenti, et al. 2021 <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac0ae2">The Diversity of Environments around Luminous Quasars at Redshift z>6</a> </li>
+<li> K. Ren, M. Trenti, et al. 2021 <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac0ae2">The Diversity of Environments around Luminous Quasars at Redshift z>6</a> </li>
 
 </ol>
 
