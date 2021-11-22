@@ -14,7 +14,7 @@ li {
 
 <li><b>Y. Ni</b>, Y. Li, et al. 2021 <a href='https://academic.oup.com/mnras/article/507/1/1021/6327562'>AI-assisted superresolution cosmological simulations – II. Halo substructures, velocities, and higher order statistics</a> </li> 
     
-<li><b>Y. Ni</b>, T. Di Matteo and Y. Feng, 2020 <a href="https://arxiv.org/abs/2012.04714">Not all peaks are created equal: the early growth of Supermassive Black Holes</a> </li>
+<li><b>Y. Ni</b>, T. Di Matteo and Y. Feng, 2020 <a href="https://doi.org/10.1093/mnras/stab3162">Not all peaks are created equal: the early growth of Supermassive Black Holes</a> </li>
 
 <li><b>Y. Ni</b>, T. Di Matteo, et al. 2020 <a href="https://academic.oup.com/mnras/article/495/2/2135/5835703">QSO obscuration at high redshift (z > 7):predictions from the BLUETIDES simulation</a> </li>
 
@@ -38,5 +38,14 @@ li {
 <li>M. A. Marshall,<b>Y. Ni</b>, et al. 2020 <a href="https://academic.oup.com/mnras/article/499/3/3819/5917996">The host galaxies of z = 7 quasars: predictions from the BLUETIDES simulation</a> </li>
 
 <li>K.-W. Huang, <b>Y. Ni</b>, et al. 2019 <a href="https://academic.oup.com/mnras/article/496/1/1/5851290">The early growth of supermassive black holes in cosmological hydrodynamic simulations with constrained Gaussian realizations</a> </li>
+
+### Other contributed papers
+
+<li> >M. A. Marshall, S. Wilkins, et al. 2021 <a href="https://arxiv.org/abs/2110.12075">The Impact of Dust on the Sizes of Galaxies in the Epoch of Reionization</a> </li>
+
+<li> >M. A. Marshall, J. S. B. Wyithe, et al. 2021 <a href="https://doi.org/10.1093/mnras/stab1763">Observing the host galaxies of high-redshift quasars with JWST: predictions from the BLUETIDES simulation</a> </li>
+
+<li> > K. Ren, M. Trenti, et al. 2021 <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac0ae2">The Diversity of Environments around Luminous Quasars at Redshift z>6</a> </li>
+
 </ol>
 
