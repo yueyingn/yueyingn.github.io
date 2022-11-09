@@ -21,11 +21,11 @@ footer:
   show_powered_by: False
   contact:
     - name: Email
-      value: yueyingn@andrew.cmu.edu
-      link: mailto:yueyingn@andrew.cmu.edu
+      value: yueying.ni@cfa.harvard.edu
+      link: mailto:yueying.ni@cfa.harvard.edu
     
   follow:
-    - name: GitHub
+    - name: yueyingn
       link: http://github.com/yueyingn
 
 # Build settings
