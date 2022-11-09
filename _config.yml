@@ -3,7 +3,7 @@
 
 title: Yueying Ni
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in astrophysics
+  Postdoc researcher
 baseurl: "/" # the subpath of the site
 url: "https://yueyingn.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/me.jpeg
